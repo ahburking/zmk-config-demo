@@ -1,3 +1,4 @@
+name: demo
 build:
   settings:
     board_root: .

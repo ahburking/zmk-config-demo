@@ -1,0 +1,6 @@
+if SHIELD_DEMO
+
+config ZMK_KEYBOARD_NAME
+    default "demo"
+
+endif
